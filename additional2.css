@@ -1,0 +1,178 @@
+/* h1, .topleft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 150px;
+}
+.edgtf-title-image
+	.stretch {
+    width:100%;
+	height:100%;
+} /
+@media only screen and (max-width: 992px) {
+ h1, .topleft {
+  position: absolute;
+  top: 8px;
+  left: 10px;
+  font-size: 60px;
+}
+	#edgtf-back-to-top>span {
+    position: relative;
+    display: block;
+	  background-color: transparent;
+    border: 2px solid #5ED186!important;
+    width: 40px;
+    height: 40px;
+}
+/
+#edgtf-back-to-top>span hover{
+    background-color: #5ED186; 
+    position: absolute;
+    display: block;   
+	  color : #5ED186; 
+	  border:none!important;
+	  
+}
+.edgtf-mobile-header .edgtf-mobile-nav .edgtf-grid>ul>li.edgtf-active-item>a{
+	color:white;
+}
+/*.edgtf-dark-header .edgtf-page-header>div:not(.edgtf-sticky-header):not(.fixed) .edgtf-main-menu>ul>li>a : hover{
+		color: #5ED186;
+} 
+.edgtf-mobile-header .edgtf-mobile-nav ul li a:hover{
+		color: #5ED186;
+}
+.edgtf-btn.edgtf-btn-simple{
+	color: #5ED186;
+}
+.edgtf-blog-holder article .edgtf-post-info-top>div a:hover{
+	color: #5ed168 ;
+}
+.edgtf-post-info-author-link:hover{
+	color: #5ed168 ;
+}
+.edgtf-btn.edgtf-btn-solid{
+	 background-color: #5ED186;	
+}
+.edgtf-mobile-header .edgtf-mobile-nav .edgtf-grid>ul>li>a:hover{
+	color: #5ED186;
+}
+.edgtf-drop-down .second .inner ul.right li a:hover{
+	color: #5ED186;
+}
+
+.edgtf-btt-bg-holder {
+	 background-color: #5ED186;
+	color: #5ED186;
+	
+}
+.edgtf-related-posts-holder .edgtf-related-posts-title:before {
+	color: #5ED186;
+}
+.edgtf-related-posts-holder .edgtf-related-posts-title { 
+	color: #5ED186;
+}
+.edgtf-container, .edgtf-full-width{
+	/*background-color: #5ED186; */
+
+
+.edgtf-blog-single-navigation .edgtf-blog-single-nav-label {
+    color: #5ED186;
+}
+
+.edgtf-related-posts-holder .edgtf-related-posts-title:before {
+    background-color: #5ED186;
+}
+
+.edgtf-related-posts-title {
+    color: #5ED186;
+}
+
+
+
+.edgtf-related-posts-holder .edgtf-related-posts-title:after {
+    background-color: #5ED186;
+}
+
+#edgtf-back-to-top>span .edgtf-btt-bg-holder {
+    background-color: #5ED186;
+    color: #5ed168;
+}
+
+.edgtf-comment-form .comment-reply-title:before {
+    background-color: #5ED186;
+}
+
+#edgtf-back-to-top>span:before,
+#edgtf-back-to-top>span:before {
+    background-color: #5ED186;
+    color: #5ED186;
+}
+
+#edgtf-back-to-top>span:after,
+#edgtf-back-to-top>span:before {
+    background-color: #5ED186;
+    color: #5ED186;
+}
+
+/*
+#edgtf-back-to-top>span:after, #edgtf-back-to-top>span:before {
+		background-color: #5ED186;
+	  color: #5ED186; 
+}
+#edgtf-back-to-top>span:before, #edgtf-back-to-top>span:before {
+		background-color: #5ED186;
+	color: #5ED186; 
+}
+#edgtf-back-to-top>span:after, #edgtf-back-to-top>span:after {
+		color: #5ED186;
+	background-color: #5ED186;
+} */
+.edgtf-main-menu>ul>li>a>span.item_outer:after {
+    background-color: #5ED186;
+}
+
+#edgtf-back-to-top>span .edgtf-btt-bg-holder {
+    background-color: #5ED186;
+}
+
+.edgtf-icon-ion-icon ion-android-arrow-up {
+    background-color: #5ED186;
+}
+
+.edgtf-related-posts-holder .edgtf-related-post .edgtf-post-info>div :hover {
+    color: #5ed168;
+    /*	background-color: #5ED186; */
+}
+
+.edgtf-icon-stack {
+    color: #5ED186;
+    background-color: #5ED186;
+}
+
+.edgtf-icon-stack>span {
+    color: #5ED186;
+    background-color: #5ED186;
+}
+
+.edgtf-related-posts-holder .edgtf-related-post .edgtf-post-info>div {
+    color: #5ED186;
+}
+
+.edgtf-blog-holder article .edgtf-post-info-top>div a :hover {
+    color: #5ed168;
+}
+
+.edgtf-blog-holder article .edgtf-post-info-top>div a {
+    color: #5ED186;
+}
+
+.edgtf-blog-holder article .edgtf-post-info-top>div {
+    color: #5ED186;
+}
+
+.edgtf-btt-bg-holder:after {
+    color: #5ED186;
+}
+
+*/
