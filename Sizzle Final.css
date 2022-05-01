@@ -335,12 +335,9 @@ h4 {
 }
 
 .edgtf-fullscreen-search-holder .edgtf-form-holder-inner .edgtf-line {
-    color: #5ED186 !important;
+    border-bottom: 4px solid #5ED186 !important;
 }
 
-.edgtf-fullscreen-search-holder .edgtf-form-holder-inner .edgtf-line {
-    color: #5ED186 !important;
-}
 
 /* .edgtf-title-holder .edgtf-title-wrapper .edgtf-page-title {
     color:  #5ED186;
